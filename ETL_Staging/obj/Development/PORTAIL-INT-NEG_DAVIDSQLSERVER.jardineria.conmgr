@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DAVIDSANCHEZ\MASTERSQL.jardineria"
+  DTS:DTSID="{362B4183-6599-4E58-8390-9992B31C52F5}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DAVIDSANCHEZ\MASTERSQL;User ID=sa;Initial Catalog=jardineria;Persist Security Info=True;Encrypt=False;Application Name=SSIS-ETL_Staging-{362B4183-6599-4E58-8390-9992B31C52F5}DAVIDSANCHEZ\MASTERSQL.jardineria;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWEMjdrqA0EGbMwJnmqOsTQAAAAACAAAAAAADZgAAwAAAABAAAACiXTSFvpzG2JhAtrTkyZbGAAAAAASAAACgAAAAEAAAAIotxw9UrdK2h7NrW909qnR4AAAA7nnLaccyoLg6A/Y9HUz7xGnUbL3Om74EJKUyIPUDFo6hd1PcUkTygYPDAmciAPiW8J26OvCfhbVIQKRKWQPh4jqYb7jc3Ed1cd6m/IfBqn0RXsdeY5aYLlHaiC+uRcmMIQKTuqM1AGiKQcV8gW3KemDFZ6fDYa3ZFAAAAE7WQynpMknasSLTFfOJbL6lhFtN</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
